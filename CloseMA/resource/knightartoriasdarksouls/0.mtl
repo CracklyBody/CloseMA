@@ -1,0 +1,67 @@
+# Blender MTL File: 'ModelRenderLighting2.blend'
+# Material Count: 5
+
+newmtl 4_artoriasarms_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.460969 0.455805 0.655674
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd artorias arms.tga
+map_Bump artorias arms n.tga
+map_d artorias arms.tga
+
+newmtl 6_artoriasbody_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.648576 0.431350 0.665216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd artorias body.tga
+map_Bump artorias body n.tga
+map_d artorias body.tga
+
+newmtl 6_artoriascloth_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.400670 0.678819 0.435148
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd artorias cloth.tga
+map_Bump artorias cloth n.tga
+map_d artorias cloth.tga
+
+newmtl 6_artoriashelm_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.670579 0.579246 0.742457
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd artorias helm.tga
+map_Bump artorias helm n.tga
+map_d artorias helm.tga
+
+newmtl 6_artoriaslegs_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.414731 0.608337 0.677506
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd artorias legs.tga
+map_Bump artorias legs n.tga
+map_d artorias legs.tga

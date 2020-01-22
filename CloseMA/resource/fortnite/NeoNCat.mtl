@@ -1,0 +1,28 @@
+# Blender MTL File: 'NeoNCat.blend'
+# Material Count: 2
+
+newmtl F_MED_Neoncat_Cyberbody
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  T_F_MED_Neoncat_Cyber_Body_T_3_D.png
+#map_Ka T_F_MED_Neoncat_Cyber_Body_T_4_E.tga.png
+#map_Bump T_F_MED_Neoncat_Cyber_Body_T_3_N.tga.png
+
+newmtl F_MED_Neoncat_Cyberhead
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  T_F_MED_Neoncat_Cyber_Head_T_3_D.tga.png
+#map_Ka T_F_MED_Neoncat_Cyber_Head_T_3_E.tga.png
+#map_Bump T_F_MED_Neoncat_Cyber_Head_T_3_N.tga.png

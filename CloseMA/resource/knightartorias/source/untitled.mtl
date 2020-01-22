@@ -1,0 +1,94 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Mat_Chainmail
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Mat_Chainmail_Base_Color.png
+#map_Bump Mat_Chainmail_Normal_OpenGL.png
+map_Kd Mat_Chainmail_Metallic.png
+map_Ks Mat_Chainmail_Roughness.png
+
+newmtl Mat_Circle
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Mat_Circle_Base_Color.png
+map_Ks Mat_Circle_Roughness.png
+
+newmtl Mat_Helmet
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Mat_Helmet_Base_Color.png
+map_Kd Mat_Helmet_Metallic.png
+#map_Bump Mat_Helmet_Normal_OpenGL.png
+map_Ks Mat_Helmet_Roughness.png
+
+newmtl Mat_PlateArmor
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Mat_PlateArmor_Base_Color.png
+map_Kd Mat_PlateArmor_Metallic.png
+#map_Bump Mat_PlateArmor_Normal_OpenGL.png
+map_Ks Mat_PlateArmor_Roughness.png
+
+newmtl Mat_Skirt
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Mat_Skirt_Base_Color.png
+map_Kd Mat_Skirt_Metallic.png
+#map_Bump Mat_Skirt_Normal_OpenGL.png
+map_Ks Mat_Skirt_Roughness.png
+
+newmtl Mat_Sword
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Sword_albedo.jpg
+map_Kd Sword_metallic.jpg
+#map_Bump Sword_normal.jpg
+map_Ks Sword_roughness.jpg
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
